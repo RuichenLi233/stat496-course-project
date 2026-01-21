@@ -1,1 +1,19 @@
+Idea 1: Sensitivity of LLM Outputs to Prompt Wording
+Research question: How much does a small variation in prompt wording affect LLM outputs?
+Implementation:
+Create sets of semantically equivalent prompts with different wording styles (e.g., formal vs. informal, direct vs. indirect). Run these prompts across multiple LLMs and collect repeated outputs. Measure output variation using embedding similarity, keyword overlap, or a simple human-designed rubric to assess stability.
 
+Idea 2: Sampling Parameters and Factual Consistency
+Research question: How do sampling parameters (temperature, top-p) influence factual accuracy and consistency?
+Implementation:
+Design a dataset of fact-based questions with verifiable answers. Systematically vary temperature and top-p while holding prompts constant, and sample multiple responses per setting. Evaluate correctness, answer diversity, and inconsistency rates across different models.
+
+Idea 3: Bias Amplification in Multi-Turn Interactions
+Research question: Do biases become more pronounced over multi-turn interactions with LLMs?
+Implementation:
+Construct controlled multi-turn dialogue templates involving descriptions or judgments (e.g., about professions or traits). Compare outputs from single-turn versus multi-turn prompts using basic bias indicators such as word frequencies, sentiment scores, or stereotype-related descriptors.
+
+Idea 4: Chain-of-Thought Prompting and Answer Quality
+Research question: Does explicitly requesting reasoning improve answer accuracy?
+Implementation:
+Use a set of reasoning or logic problems and compare performance between direct-answer prompts and chain-of-thought prompts. Analyze differences in accuracy, response length, and types of errors across models.
