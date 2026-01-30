@@ -1,0 +1,10 @@
+QUESTIONS = [
+    "Who has the most NBA championships as a player?",
+    "What is the capital of China?",
+    "In what year was Valorant officially released?",
+    "Who is widely considered the GOAT in basketball?",
+    "What is the tallest mountain on Earth?",
+    "Who invented Python programming language?",
+    "Which country won the 2018 FIFA World Cup?",
+    "What year did the first iPhone release?"
+]
