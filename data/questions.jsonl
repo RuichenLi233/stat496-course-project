@@ -1,128 +1,57 @@
 {
-  "dataset_name": "us_factual_qa_small",
-  "description": "A small factual question-answer dataset about the United States, designed for evaluating LLM factual consistency under different sampling parameters (e.g., temperature, top-p). Used for evaluation only.",
-  "domain": "United States",
-  "num_questions": 20,
+  "dataset_name": "general_factual_qa",
+  "description": "factual question-answer pairs used for small-scale LLM evaluation experiments. Questions are designed to test factual correctness under varying sampling parameters.",
+  "num_questions": 8,
   "questions": [
     {
       "id": 1,
-      "category": "Geography",
-      "question": "What is the capital of the United States?",
-      "answer": "Washington, D.C."
+      "category": "Sports",
+      "question": "Who has the most NBA championships as a player?",
+      "answer": "Bill Russell"
     },
     {
       "id": 2,
       "category": "Geography",
-      "question": "Which U.S. state has the largest population?",
-      "answer": "California"
+      "question": "What is the capital of China?",
+      "answer": "Beijing"
     },
     {
       "id": 3,
-      "category": "Geography",
-      "question": "Which river is the longest in the United States?",
-      "answer": "Missouri River"
+      "category": "Technology",
+      "question": "In what year was Valorant officially released?",
+      "answer": "2020"
     },
     {
       "id": 4,
-      "category": "Geography",
-      "question": "How many states are there in the United States?",
-      "answer": "50"
+      "category": "Sports",
+      "question": "Who is widely considered the GOAT in basketball?",
+      "answer": "Michael Jordan",
+      "evaluation_note": "This question is subjective; the answer reflects the most commonly cited consensus rather than an objectively verifiable fact."
     },
     {
       "id": 5,
       "category": "Geography",
-      "question": "What ocean borders the east coast of the United States?",
-      "answer": "Atlantic Ocean"
+      "question": "What is the tallest mountain on Earth?",
+      "answer": "Mount Everest"
     },
     {
       "id": 6,
-      "category": "History",
-      "question": "In what year was the Declaration of Independence signed?",
-      "answer": "1776"
+      "category": "Technology",
+      "question": "Who invented the Python programming language?",
+      "answer": "Guido van Rossum"
     },
     {
       "id": 7,
-      "category": "History",
-      "question": "Who was the first President of the United States?",
-      "answer": "George Washington"
+      "category": "Sports",
+      "question": "Which country won the 2018 FIFA World Cup?",
+      "answer": "France"
     },
     {
       "id": 8,
-      "category": "History",
-      "question": "Which war was fought between the North and the South in the United States?",
-      "answer": "American Civil War"
-    },
-    {
-      "id": 9,
-      "category": "History",
-      "question": "In which year did the United States enter World War II?",
-      "answer": "1941"
-    },
-    {
-      "id": 10,
-      "category": "History",
-      "question": "Which U.S. president issued the Emancipation Proclamation?",
-      "answer": "Abraham Lincoln"
-    },
-    {
-      "id": 11,
-      "category": "Government",
-      "question": "How many amendments are there to the U.S. Constitution?",
-      "answer": "27"
-    },
-    {
-      "id": 12,
-      "category": "Government",
-      "question": "How many justices serve on the U.S. Supreme Court?",
-      "answer": "9"
-    },
-    {
-      "id": 13,
-      "category": "Government",
-      "question": "What is the term length of a U.S. president, in years?",
-      "answer": "4"
-    },
-    {
-      "id": 14,
-      "category": "Government",
-      "question": "Which branch of the U.S. government makes federal laws?",
-      "answer": "Legislative branch"
-    },
-    {
-      "id": 15,
-      "category": "Government",
-      "question": "What is the official residence of the U.S. president called?",
-      "answer": "The White House"
-    },
-    {
-      "id": 16,
-      "category": "Society",
-      "question": "What is the official currency of the United States?",
-      "answer": "U.S. dollar"
-    },
-    {
-      "id": 17,
-      "category": "Science",
-      "question": "Which federal agency is responsible for space exploration in the United States?",
-      "answer": "NASA"
-    },
-    {
-      "id": 18,
-      "category": "Society",
-      "question": "What system of measurement is primarily used in the United States?",
-      "answer": "Imperial system"
-    },
-    {
-      "id": 19,
-      "category": "History",
-      "question": "Which holiday commemorates the signing of the Declaration of Independence?",
-      "answer": "Independence Day"
-    },
-    {
-      "id": 20,
-      "category": "Geography",
-      "question": "What is the largest national park in the United States?",
-      "answer": "Wrangell–St. Elias National Park"
+      "category": "Technology",
+      "question": "What year was the first iPhone released?",
+      "answer": "2007"
     }
   ]
 }
+
