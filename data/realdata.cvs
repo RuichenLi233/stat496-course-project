@@ -1,1 +1,9 @@
+Find the dataset at Huggingface: https://huggingface.co/datasets/iarfmoose/qa_evaluator
 
+Here is the instruction for using the dataset from Huggingface:
+
+hf auth login
+
+from datasets import load_dataset
+
+ds = load_dataset("iarfmoose/qa_evaluator")
