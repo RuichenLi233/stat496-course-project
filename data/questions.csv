@@ -1,0 +1,29 @@
+﻿qid,category,answer_type,question,correct_answer
+1,tv_detail,short,"In the episode \""Do Something Crazy\"" from The Magicians, what did the Clock Dwarf request from his visitors? Answer with the exact item.",A ham and cheese sandwich
+2,local_business,short,"What are the hours of Aladdin's Gyro-cery in Seattle, WA? Answer in one line.",11:00 AM – 9:00 PM
+3,video_game_niche,short,"In Factorio, which science pack is required to research \""Rocket Silo\""? Answer with the pack name only.",Space Science Pack
+4,video_game_niche,short,"In Factorio, how many Rocket Parts are required to launch one rocket? Answer with a number only.",100
+5,policy_niche,short,What is the default maximum context window (tokens) of gpt-4o-mini? Answer with a number only.,128000
+6,history_specific,short,Who was the first Prime Minister of Singapore? Answer with name only.,Lee Kuan Yew
+7,history_specific,short,In what year did the Berlin Wall fall? Answer with a year only.,1989
+8,geo_tricky,short,What is the capital of Bolivia? Answer with city name only.,Sucre
+9,geo_tricky,short,Which country has the city of Timisoara? Answer with country only.,Romania
+10,law_specific,short,What does the acronym GDPR stand for? Answer with the full expansion only.,General Data Protection Regulation
+11,stats_tricky,short,In one sentence: what does AIC trade off? Answer in <= 12 words.,Model fit and model complexity
+12,ml_tricky,short,In one phrase: what does "temperature" control in sampling-based decoding?,Randomness of token selection
+13,ml_tricky,short,Define top-p (nucleus sampling) in one sentence.,Samples from smallest probability mass bigger than p
+14,ml_tricky,short,Define top-k sampling in one sentence.,Samples from top k highest-probability tokens
+15,tv_detail,short,"In Breaking Bad, what is the name of Saul Goodman's real identity? Answer with the full name only.",James Morgan McGill
+16,sports_detail,short,Which NBA team drafted Kobe Bryant? Answer with team name only.,Charlotte Hornets
+17,sports_detail,short,In what year did LeBron James win his first NBA championship? Answer with year only.,2012
+18,cs_tricky,short,What does "idempotent" mean in computing? Answer with one sentence.,Applying it multiple times has no additional effect.
+19,cs_tricky,short,"In Python, what does PEP stand for? Answer with full expansion.",Python Enhancement Proposal
+20,cs_tricky,short,What is the time complexity of binary search? Answer in Big-O only.,O(log n)
+21,cs_tricky,short,What does HTTP status code 418 mean? Answer with the phrase only.,I'm a teapot
+22,culture_tricky,short,Which artist painted "The Persistence of Memory"? Answer with name only.,Salvador Dalí
+23,culture_tricky,short,What is the main language spoken in Quebec? Answer with one word.,French
+24,finance_tricky,short,What does ETF stand for? Answer with full expansion.,Exchange Traded Fund
+25,science_tricky,short,What is the chemical symbol for tungsten? Answer with 1-2 characters.,W
+26,science_tricky,short,What planet is known as the Red Planet? Answer with one word.,Mars
+27,science_tricky,short,What is the speed of light in vacuum in m/s (scientific notation)?,2.998×10^8
+28,logic_tricky,short,In one line: what does "biconditional" mean in logic?,True when both statements have same truth value.
