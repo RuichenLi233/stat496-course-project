@@ -1,0 +1,283 @@
+question,correct_answer,question_type
+Is it true that he sent in federal troops to chicago?,yes,binary
+Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?,Yes,binary
+Did Monroe' wedding happen at the Trinity Church in New York?,Yes,binary
+Are turtles being examined for longevity genes?,Yes,binary
+Was Wilson president of the American Political Science Association in 1910 ?,Yes,binary
+"Do all ducks ""quack""?",No,binary
+Does the Gray Wolf share an ancestry with the domestic dog?,Yes,binary
+Are a wolf's teeth its main weapons?,Yes,binary
+Can beetles be found in polar regions?,No,binary
+Is a drake a male?,Yes,binary
+Is it the world 's second largest country by total area?,yes,binary
+Have elephants been used as working animals?,yes,binary
+Are turtle eggs leathery and soft?,Yes,binary
+Are elephant populations in West Africa generally small and fragmented?,yes,binary
+Is the president elected by popular vote?,Yes.,binary
+Did Wilson support the committee system?,no,binary
+Did lincoln have 18 months of schooling?,Yes,binary
+Is it the smallest german-speaking country in the world?,Yes,binary
+"Are his last words often quoted as "" Thomas Jefferson survives "" . ?",yes,binary
+Is the leopard an agile and graceful predator?,Yes,binary
+Did John Adams support the Stamp Act of 1765?,No,binary
+Does Liechtenstein have an army?,No.,binary
+Has Singapore Changi Airport a network of 81 airlines connecting Singapore to 185 cities in 58 countries ?,Yes,binary
+Is the black color heritable and caused by only one recessive gene locus ?,Yes,binary
+Have there been other US presidents that have visited Cuba?,No,binary
+Was Thedore Roosevelt  a member of the Republican Party?,Yes,binary
+Did France cede nearly all of its colonies in Europe in 1763?,Yes.,binary
+Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,Yes,binary
+Do sea otters live along the Pacific coast?,Yes,binary
+Is Egypt bordered by the Gaza Strip?,yes,binary
+Does Romania share a border with Ukraine?,yes,binary
+Was Ford an Eagle Scout?,yes,binary
+Are kangaroos and wallabies adept swimmers?,yes,binary
+Is it true that adams had spent some time as the ambassador?,yes,binary
+"Is romania -LRB- , -RRB- a country in southeastern europe?",Yes,binary
+Was watt a fellow of the Royal Society of Edinburgh and the Royal Society of London?,Yes.,binary
+Are large pythons potential prey for leopards?,yes,binary
+Are beetles endopterygotes with complete metamorphosis?,Yes.,binary
+Are sports in Indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?,yes,binary
+"Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?",no,binary
+Is foie gras often made from ducks?,yes,binary
+Are diving ducks heavier tha dabbling ducks?,Yes,binary
+Was Wilson a remarkably effective writer and thinker?,Yes,binary
+Is a beetle's general anatomy uniform?,Yes,binary
+Is Ford related with the assassination of John F. Kennedy?,Yes,binary
+"Are the Pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?",yes,binary
+Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?,yes,binary
+Can larger penguins dive deep in case of need ?,Yes,binary
+Do turtles lay eggs underwater?,No,binary
+"Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?",yes,binary
+Are ducks an accepted presence in some populated areas?,Yes,binary
+Is Qatar bordered by Saudi Arabia to the south?,Yes,binary
+Was Abraham Lincoln the sixteenth President of the United States?,yes,binary
+Did the scientific community not reserve great attention to his theory ?,yes,binary
+Is the main sport in Uruguay football ?,Yes,binary
+Is the myth of Otter 's Ransom the starting point of the Volsunga saga ?,yes,binary
+Is an otter 's den called a holt ?,yes,binary
+Are male otters dog-otters?,yes,binary
+Are adult ducks fast fliers?,Yes,binary
+Are there a large number of Jews living in Egypt today?,no,binary
+Did Theodore Roosevelt study Judo?,No,binary
+Does salmon remain the favorite of fly rod enthusiasts?,Yes,binary
+Is The Celsius crater on the Moon named after him?,Yes,binary
+Did Ulysses win the Battle of Champion Hill?,Yes,binary
+Is it the world 's fourth most populous country and the most populous muslim-majority nation?,yes,binary
+Are turtles a part of the Flying Spaghetti Monster?,Yes,binary
+Can otters survive in cold water?,yes,binary
+"Is the study of beetles called coleopterology , and its practitioners are coleopterists ?",Yes.,binary
+Is indonesia a republic?,yes,binary
+Are the largest turtles aquatic?,yes,binary
+"Did Grand Rapids supporters not urge him to take on Bartel J. Jonkman , the incumbent Republican congressman ?",No.,binary
+Does the mother care for the young?,No,binary
+"Is it not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage , or whether gigantism was evolved independently in a much restricted Palaeeudyptinae and the Anthropornithinae ?",It is not even known.,binary
+Are otters totem animals?,Yes,binary
+Is it true that thermometer had 100 for the freezing point?,Yes,binary
+Did Coolidge graduate from Black River Academy?,yes,binary
+Are penguins afraid of humans?,no,binary
+Are elephants mammals?,yes,binary
+Did Woodrow Wilson create the League of Nations?,yes,binary
+Was Wilson a member of the Phi Kappa Psi fraternity?,yes,binary
+Is Canada a member of the OECD?,Yes.,binary
+Did Wilson support desegregation?,no,binary
+"Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?",Yes,binary
+Was King Victor Emmanuel III there to pay homage to Avogadro ?,yes,binary
+Is Canada a geographically vast and ethnically diverse country ?,yes,binary
+Is Ghana's head of state John Agyekum Kufuor?,yes,binary
+Do beetles antennae function primarily as organs of smell?,Yes,binary
+Does Egypt receive the least rainfall in the world?,Yes.,binary
+Are all penguins countershaded?,Yes,binary
+Is aquatic respiration in Australian freshwater turtles being studied?,yes,binary
+Is Romania a semi-presidential unitary state?,Yes,binary
+Is it true that he shared the nobel prize in physics?,yes,binary
+Is it a winter sports resort?,Yes,binary
+Do kangaroos eat plants?,yes,binary
+What allows a duck to filter water out of the side of their beaks and keep food inside?,Tiny rows of plates called lamellae,entity
+What resembles that of the similarly-sized cougar in the Americas?,The leopard's ecological role,entity
+What religions are found in Uruguay?,"Roman Catholic, Protestant, Jewish, and nonprofessing.",entity
+Who appointed Harlan Fiske Stone to the Supreme Court?,Coolidge,entity
+What was the Consitution Act formerly called?,The British North America Act.,entity
+What is the estimated population of Egypt?,More than 78 million.,entity
+Who lost control of his party to the agrarians and silverites in 1896?,Grover Cleveland,entity
+What used Singapore as a strategic trading post along the spice route?,British,entity
+Who was Grant's brother in law?,Fred Dent,entity
+An otter 's den is what?,A holt,entity
+The eggs of the largest species are what?,spherical,entity
+Why does the phrase 'elephants never forget' have no metaphorical meaning?,it refers literally to elephants supposedly having an excellent memory,entity
+What is cause of polar bear's skin diseases?,mites or other parasites,entity
+What are the names of Uruguay's political parties?,Partido Colorado and Partido Blanco,entity
+Where was James Monroe born?,"Westmoreland County, Virginia",entity
+What drives sea otter almost to extinction?,Humans hunted them almost to extinction.,entity
+What did Jefferson call John Adams?,"The ""Colossus of Independence"".",entity
+Name four related articles for the article on turtles.,"Triassic, Ernst Haeckel, Kunstformen der Natur, Animal",entity
+What happened in 1833?,Avogadro had been recalled to Turin university,entity
+What is responsible for converting the hydrogen byproduct of fermentation into acetate?,bacteria,entity
+What is the name of a specialized species of duck adapted to catch large fish?,the smew,entity
+What was Scots-Irish and Scottish?,His ancestry,entity
+Where do sea otters live?,Sea otters (Enhydra lutris) live along the Pacific coast of North America.,entity
+The State Court rules what?,on the conformity of laws with the constitution,entity
+What sort of turtles are ectothermic?,all of them,entity
+Who served as the headquarters and one of the main launching sites of the US invasion of Iraq in 2003 ?,Qatar.,entity
+What part of an elephant is very important for temperature regulation?,Ears,entity
+What may a leopard be mistaken for?,A cheetah or a jaguar,entity
+What happened in the election of 1816?,Monroe was elected president,entity
+What happened from 1730 to 1744?,He was professor of astronomy at Uppsala University,entity
+What did Cleveland's opponents say in 1884 to counter his innocent image?,That he had fathered an illegitimate child,entity
+Who is the most popular rock group in Finland?,CMX,entity
+What did The Legal Tender Act of 1862 establish?,"the United States Note, the first paper currency in United States history",entity
+What is surplus killing?,Surplus killing is defined as the killing of several prey animals too numerous to eat at one sitting.,entity
+How do sea otters insulate themselves?,a layer of air trapped in their fur(!),entity
+Name a turtle popularly kept as a pet.,Russian Tortoises,entity
+What animal attracts the most humor and silliness?,The duck,entity
+What is the largest ethnic minority in Romania?,Hungarians,entity
+What land animal has the largest brain?,elephant,entity
+What is the primary domestic source of water supply?,The primary domestic source of water supply in Singapore is rainfall.,entity
+Sea otters eat what?,Shellfish and other invertebrates,entity
+What did Tourism in Romania attract in 2005?,investments worth 400 million euros,entity
+What happened in 1896?,Becquerel accidentally discovered radioactivity.,entity
+What are the two subfamilies of the Native Ghanaian languages?,Kwa and Gur,entity
+What is a country with which Finland is involved in an international conflict?,Finland is not involved in international conflicts or border disputes.,entity
+What has Uruguay done to be competitive in agriculture?,"Labeling as ""Natural"" or ""Ecological""",entity
+What was given by Aristotle for the hardened shield like forewings?,"The name ""Coleoptera"".",entity
+What was Grant's political affiliation?,Republican,entity
+Who died in childbirth in 1772?,Margaret Miller,entity
+To what genus does the gray wolf belong?,Canis,entity
+"What shares land borders with Papua New Guinea, East Timor and Malaysia?",Indonesia,entity
+What are the similarities between beetles and grasshoppers?,mouthparts,entity
+What does the word Ghana mean?,warrior king,entity
+Where is the most densely populated part of Canada?,The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.,entity
+Who was President when Wilson finished Congressional Government?,Grover Cleveland,entity
+Where was Theodore Roosevelt from?,Gramercy section of New York City,entity
+What religions has Egypt outlawed?,"All but Christianity, Islam, and Judaism",entity
+"Where did the expression ""a sitting duck"" come from?","In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.",entity
+Why did Coolidge not attend law school?,It was too expensive,entity
+Where is Qatar's telecommunication system centered?,Doha.,entity
+What is an economic use of a duck?,Meat,entity
+What expired on March?,Monroe's presidency,entity
+What period of rapid economic growth did the United States experience during Coolidge's presidency?,the Roaring Twenties,entity
+"What does ""Era of Good Feelings"" refers to?",Reduced tension,entity
+What became one of the most important commercial and military centres of the British Empire?,Singapore,entity
+Where do joeys complete postnatal development?,marsupium,entity
+"What defended slavery, owned slaves and S08_set up a Sunday school for them?",His father,entity
+What did Ford say about his biological father?,He was abusive and had a history of hitting his mother.,entity
+What did Coolidge do after graduating from Amherst?,"Coolidge moved to Northampton, MassachuS08_setts",entity
+What are poor neighborhoods called informally?,Cantegriles.,entity
+To whom was Millard Fillmore born to?,to Nathaniel and Phoebe Millard Fillmore,entity
+Where was Theodore Roosevelt born?,28 East 20th Street in the modern-day Gramercy section of New York City,entity
+What countries border Egypt?,"Libya, Sudan, the Gaza Strip and Israel.",entity
+Where is Adams buried?,United First Parish Church,entity
+What happened with a bromide emulsion in two sheets of very thick black paper?,the plate does not become clouded upon being exposed to the sun for a day,entity
+Why did Lincoln issue the Emancipation Proclamation?,To free slaves,entity
+What is Canada's national unemployment rate?,"While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years. Provincial unemployment rates vary from a low of 3.6% in Alberta to a high of 14.6% in Newfoundland and Labrador.",entity
+Name an animal that is growing in number due to recent conservation efforts,"Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)",entity
+What do river otters eat?,"a variety of fish and shellfish, as well as small land mammals and birds",entity
+What was the nickname of Theodore Roosevelt's sister Anna?,Bamie as a child and Bye as an adult,entity
+What was from Pennsylvania?,His father,entity
+Why are side-necked turtles called side-necked turtles?,Because of the way they withdraw their heads into their shells.,entity
+"What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?",The Liechtenstein Dynasty acquired vast swaths of land,entity
+Who assassinated Lincoln?,John Wilkes Booth,entity
+Which defense mechanism uses colour or shape to deceive potential enemies?,mimicry,entity
+What did Cleveland die from?,A heart attack,entity
+Where is old Ghana in relation to present Ghana?,500 miles north,entity
+What is the most densely populated independent country in the world?,Monaco,entity
+What unrelated water birds are ducks sometimes confused with?,"loons or divers, grebes, gallinules, and coots",entity
+Where did Orang Laut people live?,"Orang Laut people lived around the coast, rivers and smaller islands.",entity
+Where do leopards often hide their kills?,in dense vegetation,entity
+What religion do most Uruguayans profess?,None.,entity
+What is the biggest city in Finland?,Greater Helsinki,entity
+What field did Woodrow Wilson leave law practice to study?,history and political science,entity
+How many years after Cleveland left office did the U.S. win the Spanish-American War?,One Year,numerical_temporal
+During what period was Akhenaten a Pharaoh?,The New Kingdom (c.1550&#8722;1070 BC),numerical_temporal
+When did John Adams serve as Vice President?,1789-1797,numerical_temporal
+How much weight do female polar bears gain during pregnancy?,They gain double their weight.,numerical_temporal
+How many long was Lincoln's formal education?,18 months,numerical_temporal
+How many living species of African Elephants are there?,2,numerical_temporal
+When do wolves molt?,Late Spring or Early Summer,numerical_temporal
+How much do sea otters weigh?,30 kg (about 65 pounds),numerical_temporal
+How many species of beetles are there?,"350,000",numerical_temporal
+He became chief engineer in the Department of Bridges and Highways in what year?,in 1894,numerical_temporal
+When did Goh Chok Tong succeed Lee as Prime Minister?,"In 1990, Goh Chok Tong succeeded Lee as Prime Minister.",numerical_temporal
+How many Eagle Scouts were involved in Ford's funeral procession?,400,numerical_temporal
+How much of the population is of white European descent?,88%,numerical_temporal
+When was Liechtenstein's current constitution adopted?,October 1921.,numerical_temporal
+When did he drop John from his name?,upon graduating from college,numerical_temporal
+How old was Lincoln in 1816?,seven,numerical_temporal
+How many provinces and territories does Canada have?,A federation now comprising ten provinces and three territories,numerical_temporal
+How many living species of Asian Elephants are there?,1,numerical_temporal
+When was James Monroe appointed to Secretary of War?,1814,numerical_temporal
+How long after the death of his first wife did Fillmore marry Caroline McIntosh?,where is the death date of his first wife?,numerical_temporal
+What year did Coolidge open his own law office?,1898,numerical_temporal
+How many species and genera does otter have?,13 species and 7 genera,numerical_temporal
+"Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?",2007,numerical_temporal
+When do African elephants lie down?,when they are sick or wounded,numerical_temporal
+"In what year were the ""Games of the XV Olympiad"" held?",1952,numerical_temporal
+When are sperm cells transferred to the female?,during pairing,numerical_temporal
+How many species of otter are there?,13,numerical_temporal
+How much time to penguins spend on land?,half of their life,numerical_temporal
+How long is the elephant's gestation period?,22 months,numerical_temporal
+How many countries in Europe are bigger than Romania?,eleven,numerical_temporal
+When did he publish a collection?,1733,numerical_temporal
+How many species of penguins are there?,between 17 and 20 living species,numerical_temporal
+When was the first photgraph of lincoln taken?,1846,numerical_temporal
+When did he die?,June 24 1908,numerical_temporal
+When did Islam become the dominant religion in Java and Sumatra?,the end of the 16th century,numerical_temporal
+What years were Coolidge's two sons born in?,1906 and 1908,numerical_temporal
+When did he marry louise désirée lorieux?,1890,numerical_temporal
+When did the first verifiable written documents appear?,Twelfth Century,numerical_temporal
+When did he publish another memoria?,1821,numerical_temporal
+How much increase in the media's contribution to GDP is the government seeking?,The government seeks to increase its GDP contribution to 3% by 2012.,numerical_temporal
+How long may elephants live?,70 years,numerical_temporal
+When did Canada have one of the largest armed forces in the world?,1944,numerical_temporal
+How many territories joined to form Romania?,2,numerical_temporal
+When did organized agriculture appear in the Nile Valley?,6000 BC.,numerical_temporal
+When did James Monroe introduce the Monroe Doctrine?,"December 2, 1823",numerical_temporal
+When did Coolidge meet and marry Grace Anna Goodhue?,1905,numerical_temporal
+When were the Great Sphinx and the Pyramids of Giza built?,During the Old Kingdom.,numerical_temporal
+When did Lincoln first serve as President?,"March 4, 1861",numerical_temporal
+What percentage of the population don't speak English or French at home?,28%,numerical_temporal
+How much do wolves weigh?,typically varies between 32 and 62 kilograms,numerical_temporal
+When did he become a professor?,1820,numerical_temporal
+When did Qatar become an independent state?,"September 3, 1971.",numerical_temporal
+How long was Lincoln's legal Career?,23 years,numerical_temporal
+How many square kilometres of continental land is Uruguay?,176.215 km��,numerical_temporal
+When did Ghana achieve independence from the United Kingdom?,1957,numerical_temporal
+Grant was elected president as a Republican in what year?,1868,numerical_temporal
+When did the first official report of kangaroo blindness take place?,1994,numerical_temporal
+When was Woodrow Wilson born?,"December 28, 1856",numerical_temporal
+When did Adams graduate from college?,1755,numerical_temporal
+How many children did Grover Cleveland have?,5,numerical_temporal
+When did James Monroe die?,"July 4, 1831",numerical_temporal
+How many counties is Romania divided into?,41,numerical_temporal
+In what year did East Timor secede from Indonesia?,1999,numerical_temporal
+"The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?",1861,numerical_temporal
+What percentage of Liechtenstein's population is foreign-born?,two-thirds,numerical_temporal
+How many times has Uruguay won the World Cup?,Twice.,numerical_temporal
+When was Lee Kuan Yew prime minister of Singapore?,1959,numerical_temporal
+"When was he elected sheriff of Erire County, New York?",Yes.,numerical_temporal
+How much does a leopard weigh?,Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females.,numerical_temporal
+When did Monroe's presidency expired?,"March 4, 1825",numerical_temporal
+How many days did it take the Imperial Japanese Army to win the Battle of Singapore?,Six days,numerical_temporal
+How long is a leopard's tail?,60 to 110cm,numerical_temporal
+How many species of African elephants have been proposed?,three,numerical_temporal
+When did he vote for democrat james buchanan?,1856,numerical_temporal
+When was the first factory opened?,1836,numerical_temporal
+How many municipalities are within Oberland?,6,numerical_temporal
+How many people use the bus network daily?,More than 2.78 million people.,numerical_temporal
+How many regions is Ghana divided into?,10,numerical_temporal
+How much do elephants weight at birth?,120 kilograms,numerical_temporal
+When did Lincoln begin his political career?,1832,numerical_temporal
+When was James Monroe elected president?,"Monroe was elected president in the election of 1816, and re-elected in 1820.",numerical_temporal
+When was the Six Day War?,1967,numerical_temporal
+When did the Gettysburg address argue that America was born?,1776,numerical_temporal
+Since when has Egypt been a republic?,June 18 1953.,numerical_temporal
+When did Roosevelt die?,"On January 6, 1919, Roosevelt died in his sleep.",numerical_temporal
+Qatar became an independent sovereign state in what year?,"On September 3, 1971.",numerical_temporal
+How many suborders are turtles divided into?,Three.,numerical_temporal
+When is the first record of S08_settlement in Singapore?,second century AD,numerical_temporal
+European books and maps began referring to this region as Canada in what year?,1545,numerical_temporal
+How many municipalities is Liechtenstein divided into?,11,numerical_temporal
+How long is polar bear's guard hair?,5-15 cm,numerical_temporal
+When was Coolidge born?,July 4 1872,numerical_temporal
+How much is the average income of an African woman compared to a European man?,African women earns 0.65 * 0.718  = 46.67% of a European man earns in average,numerical_temporal
+When did James Monroe graduate from William and Mary?,1776,numerical_temporal
